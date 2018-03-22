@@ -1,0 +1,15 @@
+current directory: /Users/clown1108/myapp2/vendor/bundle/ruby/2.3.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+/opt/local/bin/ruby2.3 -r ./siteconf20180323-24389-1lbv9l6.rb extconf.rb
+creating Makefile
+
+current directory: /Users/clown1108/myapp2/vendor/bundle/ruby/2.3.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR=" clean
+
+current directory: /Users/clown1108/myapp2/vendor/bundle/ruby/2.3.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR="
+compiling debug_inspector.c
+linking shared-object debug_inspector.bundle
+
+current directory: /Users/clown1108/myapp2/vendor/bundle/ruby/2.3.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 debug_inspector.bundle ./.gem.20180323-24389-16i9hso
